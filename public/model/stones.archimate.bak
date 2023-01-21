@@ -3,13 +3,12 @@
   <folder name="Strategy" id="id-8a794cfebc9f498aa891e9a57dc0b635" type="strategy"/>
   <folder name="Business" id="id-99cdaab7a4ca42ecbd22af358e672555" type="business">
     <folder name="人物" id="id-d8830d547eb4410b8f4fba83cc348dd2">
-      <element xsi:type="archimate:BusinessActor" name="甄士隐（甄费）" id="id-17679be4966049458cb56435dd3c9992"/>
+      <element xsi:type="archimate:BusinessActor" name="甄士隐" id="id-17679be4966049458cb56435dd3c9992"/>
       <element xsi:type="archimate:BusinessActor" name="贾雨村" id="id-f3f63d0c1bdf4d23a40eff30a7dd590b"/>
       <element xsi:type="archimate:BusinessActor" name="空空道人" id="id-eec58f198f704c179d32e7ad876e057c"/>
       <element xsi:type="archimate:BusinessActor" name="石头" id="id-5fad6290aebe4a00980c6f9c1d2ade26"/>
       <element xsi:type="archimate:BusinessActor" name="仙僧" id="id-3826f10e604043dfad04c68f25e5f382"/>
       <element xsi:type="archimate:BusinessActor" name="仙道" id="id-7a0c257bc5704ddc95648e30b40922aa"/>
-      <element xsi:type="archimate:BusinessActor" name="英莲" id="id-b27353764c7143f187ca1fb5b39cee34"/>
     </folder>
     <folder name="诗词" id="id-b69448e4da8841f787efc99810c2652a">
       <folder name="第一回" id="id-368e605f28234969848daf3af2ddf1e3">
@@ -39,35 +38,30 @@
     <element xsi:type="archimate:AssociationRelationship" id="id-da5eac9577d54b1e8c53ce5fa545e253" source="id-eec58f198f704c179d32e7ad876e057c" target="id-5fad6290aebe4a00980c6f9c1d2ade26"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-30218f73afe24e4a8332f0c0dd05ebef" source="id-3826f10e604043dfad04c68f25e5f382" target="id-5fad6290aebe4a00980c6f9c1d2ade26"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-d58b0af37c8a4d1ab74697c6a76284e4" source="id-7a0c257bc5704ddc95648e30b40922aa" target="id-5fad6290aebe4a00980c6f9c1d2ade26"/>
-    <element xsi:type="archimate:AssociationRelationship" name="父女" id="id-45f0ec4c864c4a12ac74b652ba5b1f1b" source="id-b27353764c7143f187ca1fb5b39cee34" target="id-17679be4966049458cb56435dd3c9992"/>
   </folder>
   <folder name="Views" id="id-7af1d8741a4d4db7a886e4062a7929e5" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="人物关系" id="id-d8c2125cd76a4c57bbaa9b72d0fd3fda">
-      <child xsi:type="archimate:DiagramObject" id="id-b77f0b225f414c71bd5b17464a886e25" targetConnections="id-10ffbb5cfa4a4b7c95c12642270785c2 id-689df5ec381547ed9fbadb171e67852f" archimateElement="id-17679be4966049458cb56435dd3c9992">
-        <bounds x="72" y="180" width="120" height="55"/>
+      <child xsi:type="archimate:DiagramObject" id="id-b77f0b225f414c71bd5b17464a886e25" targetConnections="id-10ffbb5cfa4a4b7c95c12642270785c2" archimateElement="id-17679be4966049458cb56435dd3c9992">
+        <bounds x="112" y="97" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-70222908e26b4f529cad1e04c6016dad" archimateElement="id-f3f63d0c1bdf4d23a40eff30a7dd590b">
-        <bounds x="296" y="180" width="120" height="55"/>
+        <bounds x="336" y="97" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-10ffbb5cfa4a4b7c95c12642270785c2" source="id-70222908e26b4f529cad1e04c6016dad" target="id-b77f0b225f414c71bd5b17464a886e25" archimateRelationship="id-213f9b47aeca4c85a2fb97c8f2111080"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-4e470e67cf364610a1110c76e0f0095e" targetConnections="id-45d7b480e16a470d980c17550e1710c6 id-cf4dd0d6bc9847f3af3ef55ddbb1dfe5 id-e7b87c005b0342d29ffc059dd41b5cc4" archimateElement="id-5fad6290aebe4a00980c6f9c1d2ade26">
-        <bounds x="260" y="72" width="120" height="55"/>
+        <bounds x="300" y="240" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-6a8588644bd748f8b1e07c97727e6990" archimateElement="id-eec58f198f704c179d32e7ad876e057c">
-        <bounds x="72" y="72" width="120" height="55"/>
+        <bounds x="112" y="240" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-45d7b480e16a470d980c17550e1710c6" source="id-6a8588644bd748f8b1e07c97727e6990" target="id-4e470e67cf364610a1110c76e0f0095e" archimateRelationship="id-da5eac9577d54b1e8c53ce5fa545e253"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-c870fbf1ff7a42d6bf2ff6b8d5f25106" archimateElement="id-3826f10e604043dfad04c68f25e5f382">
-        <bounds x="459" y="38" width="120" height="55"/>
+        <bounds x="499" y="206" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-cf4dd0d6bc9847f3af3ef55ddbb1dfe5" source="id-c870fbf1ff7a42d6bf2ff6b8d5f25106" target="id-4e470e67cf364610a1110c76e0f0095e" archimateRelationship="id-30218f73afe24e4a8332f0c0dd05ebef"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-61a84c06898e45b2a3bf9d8dcb03f3dd" archimateElement="id-7a0c257bc5704ddc95648e30b40922aa">
-        <bounds x="459" y="108" width="120" height="55"/>
+        <bounds x="499" y="276" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-e7b87c005b0342d29ffc059dd41b5cc4" source="id-61a84c06898e45b2a3bf9d8dcb03f3dd" target="id-4e470e67cf364610a1110c76e0f0095e" archimateRelationship="id-d58b0af37c8a4d1ab74697c6a76284e4"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="id-7229f43031934fa7b665f5ca55e76cab" archimateElement="id-b27353764c7143f187ca1fb5b39cee34">
-        <bounds x="73" y="290" width="120" height="55"/>
-        <sourceConnection xsi:type="archimate:Connection" id="id-689df5ec381547ed9fbadb171e67852f" source="id-7229f43031934fa7b665f5ca55e76cab" target="id-b77f0b225f414c71bd5b17464a886e25" archimateRelationship="id-45f0ec4c864c4a12ac74b652ba5b1f1b"/>
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="人物与诗词" id="id-4fcb140261304106a92078b8ce880382">
