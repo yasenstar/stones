@@ -1,10 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
-import { Inter } from '@next/font/google'
 import styles from '@/styles/Home.module.css'
-
-const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
@@ -15,18 +12,19 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+
       <main className={styles.main}>
+        <div><h1>红楼梦 Dream of Red Mansions stone</h1></div>
 
         <div className={styles.center}>
-          <div><h1>红楼梦 Dream of Red Mansions stone</h1></div>
-          <Image
+
+          <div><Image
             className={styles.logo}
             src="/images/cover.jpeg"
             alt="HongLouMeng Cover"
             width={500}
             height={300}
-            priority
-          />
+          /></div>
         </div>
 
         <div className={styles.grid}>
@@ -37,10 +35,10 @@ export default function Home() {
             alt="Stones Archi Model HTML Report"
             rel="noopener noreferrer"
           >
-            <h2 className={inter.className}>
+            <h2>
               红楼梦HTML报告 <span>-&gt;</span>
             </h2>
-            <p className={inter.className}>
+            <p>
               View model in HTML format
             </p>
           </Link>
@@ -52,10 +50,10 @@ export default function Home() {
             alt="Stones Archi Model File"
             rel="noopener noreferrer"
           >
-            <h2 className={inter.className}>
+            <h2>
               红楼梦 Archi Model <span>-&gt;</span>
             </h2>
-            <p className={inter.className}>
+            <p >
               Download Model Source File
             </p>
           </Link>
@@ -67,10 +65,10 @@ export default function Home() {
             alt="Archi Model"
             rel="noopener noreferrer"
           >
-            <h2 className={inter.className}>
+            <h2>
               ArchiMate Tool <span>-&gt;</span>
             </h2>
-            <p className={inter.className}>
+            <p>
               Download latest Archi tool for modeling
             </p>
           </Link>
