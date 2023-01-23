@@ -1,3 +1,5 @@
+import "bootstrap/dist/css/bootstrap.css";
+
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
@@ -14,10 +16,9 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <div><h1>红楼梦 Dream of Red Mansions stone</h1></div>
 
         <div className={styles.center}>
-
+          <div><h2>红楼梦 Dream of Red Mansions stone</h2></div>
           <div><Image
             className={styles.logo}
             src="/images/cover.jpeg"
