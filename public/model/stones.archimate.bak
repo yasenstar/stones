@@ -3,106 +3,6 @@
   <folder name="Strategy" id="id-8a794cfebc9f498aa891e9a57dc0b635" type="strategy"/>
   <folder name="Business" id="id-99cdaab7a4ca42ecbd22af358e672555" type="business">
     <folder name="人物" id="id-d8830d547eb4410b8f4fba83cc348dd2">
-      <folder name="011" id="id-14b812d70baf487f897a34b02b1bccce">
-        <element xsi:type="archimate:BusinessActor" name="尤氏母亲" id="id-b05f038a5b9a4be989bebf96fb5a59e6"/>
-        <element xsi:type="archimate:BusinessActor" name="南安郡王" id="id-6e14d54081ec477c8eff5865720c838c"/>
-        <element xsi:type="archimate:BusinessActor" name="东平郡王" id="id-b0c508d513314ee884828a80dbfac3ef"/>
-        <element xsi:type="archimate:BusinessActor" name="西宁郡王" id="id-d9ceaa5638ba4e0d8c43395838de9c2c"/>
-        <element xsi:type="archimate:BusinessActor" name="北静郡王" id="id-77c0217f6b4c4f08b930ce6ec31d8ce8"/>
-        <element xsi:type="archimate:BusinessActor" name="镇国公牛清" id="id-ab1f8c74e9da4cc1b132bb55d1bd31a7">
-          <documentation>牛府六家</documentation>
-        </element>
-        <element xsi:type="archimate:BusinessActor" name="忠靖侯史府八家" id="id-5bac37909cbd466a87ebc8e13056c960"/>
-        <element xsi:type="archimate:BusinessActor" name="来旺(旺儿)媳妇" id="id-865241d69dc24f02be986bea897d11dd"/>
-        <element xsi:type="archimate:BusinessActor" name="来旺儿" id="id-1780852b562c4501946e1b56029b65c5"/>
-      </folder>
-      <folder name="013" id="id-901d65191e2e4642b0a997e38027576d">
-        <element xsi:type="archimate:BusinessActor" name="贾敕" id="id-a674622c79df47668fed894c61c82e17"/>
-        <element xsi:type="archimate:BusinessActor" name="贾效" id="id-ab25121697484b3398b1d346b7fc217f"/>
-        <element xsi:type="archimate:BusinessActor" name="贾敦" id="id-fd7856532553478abc35e82c9b05fe9d"/>
-        <element xsi:type="archimate:BusinessActor" name="贾琮" id="id-355675341e6d41df8473245d726aa917"/>
-        <element xsi:type="archimate:BusinessActor" name="贾王扁" id="id-c7f7f0ebdda04b20bf8a9fb16e447621">
-          <documentation>（王扁）</documentation>
-        </element>
-        <element xsi:type="archimate:BusinessActor" name="贾珩" id="id-7f70f12be9fa4e17a95f23f8260d9213"/>
-        <element xsi:type="archimate:BusinessActor" name="贾珖" id="id-bb6bc779f45a439e9da93039cbc435ce"/>
-        <element xsi:type="archimate:BusinessActor" name="贾琛" id="id-c55ac0ced846435aac785c7ada1880dc"/>
-        <element xsi:type="archimate:BusinessActor" name="贾琼" id="id-bc12bc52b81d428c8d116ed96ccd5490"/>
-        <element xsi:type="archimate:BusinessActor" name="贾璘" id="id-6393225e62e74567a85ad7294bd1a6d8"/>
-        <element xsi:type="archimate:BusinessActor" name="贾菖" id="id-ecf41ed412974425be430efd0e9a557d"/>
-        <element xsi:type="archimate:BusinessActor" name="贾菱" id="id-5506e58e37634647a6651a2925e8736a"/>
-        <element xsi:type="archimate:BusinessActor" name="贾芸" id="id-9c556ca177ae47c6b285ad3abda7a9f5"/>
-        <element xsi:type="archimate:BusinessActor" name="贾芹" id="id-79198385c5ea4c57b2bdac931fe5afbd"/>
-        <element xsi:type="archimate:BusinessActor" name="贾蓁(zhen1)" id="id-359770cf559a48e4a087b3e75bab70e2"/>
-        <element xsi:type="archimate:BusinessActor" name="贾萍" id="id-4661dbf130b744709b4344c91a09c54e"/>
-        <element xsi:type="archimate:BusinessActor" name="贾藻" id="id-b7a5b04aa75e4afbb4b2a6094a58d758"/>
-        <element xsi:type="archimate:BusinessActor" name="贾衡" id="id-57347223416548afbf8cfa0cef5f7df3"/>
-        <element xsi:type="archimate:BusinessActor" name="贾芬" id="id-7c6bb7b814da45de960cef30e49050cc"/>
-        <element xsi:type="archimate:BusinessActor" name="贾芳" id="id-4e3869096e7642f580aaacdf375d86d0"/>
-        <element xsi:type="archimate:BusinessActor" name="贾芝" id="id-4b19e064a5bd4ed6a138f3950f68caba"/>
-        <element xsi:type="archimate:BusinessActor" name="瑞珠" id="id-346e900c88fb429299a212b3fb299e01">
-          <documentation>因忽又听得秦氏之丫鬟名唤瑞珠者，见秦氏死了，他也触柱而亡。此事可罕，合族人也都称叹。贾珍遂以孙女之礼殓殡。</documentation>
-        </element>
-        <element xsi:type="archimate:BusinessActor" name="宝珠" id="id-5fbfb1d8744847fb8bfea20b88194a08">
-          <documentation>小丫鬟名宝珠者，因见秦氏身无所出，乃甘心愿为义女，誓任摔丧驾灵之任。贾珍喜之不尽，即时传下，从此皆呼宝珠为“小姐”。</documentation>
-        </element>
-        <element xsi:type="archimate:BusinessActor" name="戴权" id="id-90e200609e254190bc6048e8540c753d">
-          <documentation>大明宫掌宫内相
-</documentation>
-        </element>
-      </folder>
-      <folder name="014" id="id-1a650347da7548208fa586b0f7fe3d97">
-        <element xsi:type="archimate:BusinessActor" name="来升媳妇" id="id-c548487038ff420b975eb49cb2b439d6"/>
-        <element xsi:type="archimate:BusinessActor" name="昭儿" id="id-e67c5d738e8446f0840dc3165d6a8091"/>
-        <element xsi:type="archimate:BusinessActor" name="色空" id="id-d946cd6ba43d41549c5cfa79a718a390">
-          <documentation>铁槛寺住持</documentation>
-        </element>
-        <element xsi:type="archimate:BusinessActor" name="牛继宗(一等伯)" id="id-5cc94439d65745dda7095d4702ba1341"/>
-        <element xsi:type="archimate:BusinessActor" name="柳芳" id="id-024092e3e856428e98e72cf8f66d1e39"/>
-        <element xsi:type="archimate:BusinessActor" name="理国公柳彪" id="id-663530f1bc624cdab296ad0b15ee81f5"/>
-        <element xsi:type="archimate:BusinessActor" name="齐国公陈翼" id="id-79365a9fef8940888eb6b9271297edea"/>
-        <element xsi:type="archimate:BusinessActor" name="陈瑞文" id="id-9fc61e9c68854f9e8658a052892a200e">
-          <documentation>世袭三品威镇将军</documentation>
-        </element>
-        <element xsi:type="archimate:BusinessActor" name="治国公马魁" id="id-37908ad4fbdd4f068dfaad91bfb58bab"/>
-        <element xsi:type="archimate:BusinessActor" name="马尚" id="id-6bb255afa1f34efb8e532f9b0ab73a3e">
-          <documentation>世袭三品威远将军</documentation>
-        </element>
-        <element xsi:type="archimate:BusinessActor" name="修国公侯晓明" id="id-f2fae5ebbc4f499fb1aa5fc6697c5988"/>
-        <element xsi:type="archimate:BusinessActor" name="侯孝康" id="id-c91f8ecaa2b9497f846b8a4f22744575"/>
-        <element xsi:type="archimate:BusinessActor" name="缮国公" id="id-a75078349e074bffba3a9b156cee8525"/>
-        <element xsi:type="archimate:BusinessActor" name="石光珠" id="id-c7b8f2f641e6482e8ab76122dc0b191d"/>
-        <element xsi:type="archimate:BusinessActor" name="南安郡王之孙" id="id-f2ee4d146be6486f993066d7c3b505d8"/>
-        <element xsi:type="archimate:BusinessActor" name="西安郡王之孙" id="id-ed4ea2f07c034b98a48046d06f47ab51"/>
-        <element xsi:type="archimate:BusinessActor" name="忠靖侯史鼎" id="id-57ac607bc64542199e049950ff252a30"/>
-        <element xsi:type="archimate:BusinessActor" name="平原侯" id="id-aadf097cf695421db6d2f9942c6f647f"/>
-        <element xsi:type="archimate:BusinessActor" name="蒋子宁" id="id-8a706c675c7a4eff90ab02142ef68eab"/>
-        <element xsi:type="archimate:BusinessActor" name="定城侯" id="id-81fc5e8030744df2b4974885feee10f9"/>
-        <element xsi:type="archimate:BusinessActor" name="谢鲸" id="id-f65e3d5d514c4e3883d32bb1ecb7f8ce"/>
-        <element xsi:type="archimate:BusinessActor" name="襄阳侯" id="id-51ff6cd640774211b9280927fab32051"/>
-        <element xsi:type="archimate:BusinessActor" name="戚建辉" id="id-47076e0c2d4949879792b1c2d0f0b26e">
-          <documentation>世袭二等男</documentation>
-        </element>
-        <element xsi:type="archimate:BusinessActor" name="景田侯" id="id-51aa399e8db94c5e82fd57a749dd48cf"/>
-        <element xsi:type="archimate:BusinessActor" name="司裘良" id="id-eeff5b9fb526480dbb70c3edf5b0282d"/>
-        <element xsi:type="archimate:BusinessActor" name="韩奇" id="id-240867b6057f497fa1b03f511d03b90c">
-          <documentation>锦乡伯公子</documentation>
-        </element>
-        <element xsi:type="archimate:BusinessActor" name="陈也俊" id="id-499980529647493e91ce0b1806e1237b"/>
-        <element xsi:type="archimate:BusinessActor" name="卫若兰" id="id-5daaa5144ea74b53a00d5ead7ad0d723"/>
-        <element xsi:type="archimate:BusinessActor" name="北静王水溶" id="id-b9b60d9d079d41c6bca760dc0bf67f97"/>
-      </folder>
-      <folder name="015" id="id-6c397b4803b240fc8cf6569ca9a77a1e">
-        <element xsi:type="archimate:BusinessActor" name="二丫头" id="id-69e272a6218e45c3a7b340e68e81b3a4"/>
-        <element xsi:type="archimate:BusinessActor" name="净虚" id="id-87d1e7f1196f4d8da2f8319ff9f1543c"/>
-        <element xsi:type="archimate:BusinessActor" name="智善" id="id-b24543eb4d8243a486fe2dc740bda0a0"/>
-        <element xsi:type="archimate:BusinessActor" name="智能" id="id-22964a05e07e4c6db74e9b6bf72e7326"/>
-        <element xsi:type="archimate:BusinessActor" name="张财主" id="id-8353312bcb0f4188bdf55de05deef8a1"/>
-        <element xsi:type="archimate:BusinessActor" name="金哥" id="id-cc7c43e8768a442f90d9d7dcf6dd675d"/>
-        <element xsi:type="archimate:BusinessActor" name="长安府府太爷的小舅子李衙内" id="id-cc338025ea094ddabe4f620dca3cf391"/>
-        <element xsi:type="archimate:BusinessActor" name="长安守备家公子" id="id-a5c0f272dfdf447aac9db7b95e03c862"/>
-        <element xsi:type="archimate:BusinessActor" name="长安节度云老爷云光" id="id-f86799d0b6f94bc79ecfa76f31322499"/>
-      </folder>
       <folder name="001-010" id="id-ace7044b1d844f32831161e8c11bfa46">
         <folder name="001" id="id-68edd2ef08614257955d4d14b132d929">
           <element xsi:type="archimate:BusinessActor" name="仙僧" id="id-3826f10e604043dfad04c68f25e5f382"/>
@@ -269,20 +169,127 @@
           </element>
         </folder>
       </folder>
-      <folder name="016" id="id-a07686057c7e48c992e26ba610d47d9d">
-        <element xsi:type="archimate:BusinessActor" name="六宫都太监夏老爷夏守忠" id="id-42e1f06a2bc14e57bbe021789ef32989"/>
-        <element xsi:type="archimate:BusinessActor" name="赖大" id="id-6a0c4dceb8a2482f85690c8c212ba1fd">
-          <documentation>荣府大总管</documentation>
-        </element>
-        <element xsi:type="archimate:BusinessActor" name="赖嬷嬷" id="id-cd2345652b934fff8888f1b9fc89878a"/>
-        <element xsi:type="archimate:BusinessActor" name="赵嬷嬷" id="id-06f441394844487fbe080f1a1ea366df"/>
-        <element xsi:type="archimate:BusinessActor" name="卜固修" id="id-dac80d13cd7b43079c4252a2c5ce0eff"/>
-        <element xsi:type="archimate:BusinessActor" name="赵天梁" id="id-ec99696f75804c7ca9e831afa4a54c36"/>
-        <element xsi:type="archimate:BusinessActor" name="赵天栋" id="id-3764a0bdab374f58aa6ead481431b84b"/>
-      </folder>
-      <folder name="017 018" id="id-7e279b5d37604c8b914dba91595c2330">
-        <element xsi:type="archimate:BusinessActor" name="妙玉" id="id-551d68a9edf848de8b210a85a50969e8"/>
-        <element xsi:type="archimate:BusinessActor" name="林之孝家的" id="id-04945451a1e6454ca5e5abc95c94c280"/>
+      <folder name="011-020" id="id-9416f51c81b94f50b0ca179e482156f3">
+        <folder name="011" id="id-14b812d70baf487f897a34b02b1bccce">
+          <element xsi:type="archimate:BusinessActor" name="尤氏母亲" id="id-b05f038a5b9a4be989bebf96fb5a59e6"/>
+          <element xsi:type="archimate:BusinessActor" name="南安郡王" id="id-6e14d54081ec477c8eff5865720c838c"/>
+          <element xsi:type="archimate:BusinessActor" name="东平郡王" id="id-b0c508d513314ee884828a80dbfac3ef"/>
+          <element xsi:type="archimate:BusinessActor" name="西宁郡王" id="id-d9ceaa5638ba4e0d8c43395838de9c2c"/>
+          <element xsi:type="archimate:BusinessActor" name="北静郡王" id="id-77c0217f6b4c4f08b930ce6ec31d8ce8"/>
+          <element xsi:type="archimate:BusinessActor" name="镇国公牛清" id="id-ab1f8c74e9da4cc1b132bb55d1bd31a7">
+            <documentation>牛府六家</documentation>
+          </element>
+          <element xsi:type="archimate:BusinessActor" name="忠靖侯史府八家" id="id-5bac37909cbd466a87ebc8e13056c960"/>
+          <element xsi:type="archimate:BusinessActor" name="来旺(旺儿)媳妇" id="id-865241d69dc24f02be986bea897d11dd"/>
+          <element xsi:type="archimate:BusinessActor" name="来旺儿" id="id-1780852b562c4501946e1b56029b65c5"/>
+        </folder>
+        <folder name="013" id="id-901d65191e2e4642b0a997e38027576d">
+          <element xsi:type="archimate:BusinessActor" name="贾敕" id="id-a674622c79df47668fed894c61c82e17"/>
+          <element xsi:type="archimate:BusinessActor" name="贾效" id="id-ab25121697484b3398b1d346b7fc217f"/>
+          <element xsi:type="archimate:BusinessActor" name="贾敦" id="id-fd7856532553478abc35e82c9b05fe9d"/>
+          <element xsi:type="archimate:BusinessActor" name="贾琮" id="id-355675341e6d41df8473245d726aa917"/>
+          <element xsi:type="archimate:BusinessActor" name="贾王扁" id="id-c7f7f0ebdda04b20bf8a9fb16e447621">
+            <documentation>（王扁）</documentation>
+          </element>
+          <element xsi:type="archimate:BusinessActor" name="贾珩" id="id-7f70f12be9fa4e17a95f23f8260d9213"/>
+          <element xsi:type="archimate:BusinessActor" name="贾珖" id="id-bb6bc779f45a439e9da93039cbc435ce"/>
+          <element xsi:type="archimate:BusinessActor" name="贾琛" id="id-c55ac0ced846435aac785c7ada1880dc"/>
+          <element xsi:type="archimate:BusinessActor" name="贾琼" id="id-bc12bc52b81d428c8d116ed96ccd5490"/>
+          <element xsi:type="archimate:BusinessActor" name="贾璘" id="id-6393225e62e74567a85ad7294bd1a6d8"/>
+          <element xsi:type="archimate:BusinessActor" name="贾菖" id="id-ecf41ed412974425be430efd0e9a557d"/>
+          <element xsi:type="archimate:BusinessActor" name="贾菱" id="id-5506e58e37634647a6651a2925e8736a"/>
+          <element xsi:type="archimate:BusinessActor" name="贾芸" id="id-9c556ca177ae47c6b285ad3abda7a9f5"/>
+          <element xsi:type="archimate:BusinessActor" name="贾芹" id="id-79198385c5ea4c57b2bdac931fe5afbd"/>
+          <element xsi:type="archimate:BusinessActor" name="贾蓁(zhen1)" id="id-359770cf559a48e4a087b3e75bab70e2"/>
+          <element xsi:type="archimate:BusinessActor" name="贾萍" id="id-4661dbf130b744709b4344c91a09c54e"/>
+          <element xsi:type="archimate:BusinessActor" name="贾藻" id="id-b7a5b04aa75e4afbb4b2a6094a58d758"/>
+          <element xsi:type="archimate:BusinessActor" name="贾衡" id="id-57347223416548afbf8cfa0cef5f7df3"/>
+          <element xsi:type="archimate:BusinessActor" name="贾芬" id="id-7c6bb7b814da45de960cef30e49050cc"/>
+          <element xsi:type="archimate:BusinessActor" name="贾芳" id="id-4e3869096e7642f580aaacdf375d86d0"/>
+          <element xsi:type="archimate:BusinessActor" name="贾芝" id="id-4b19e064a5bd4ed6a138f3950f68caba"/>
+          <element xsi:type="archimate:BusinessActor" name="瑞珠" id="id-346e900c88fb429299a212b3fb299e01">
+            <documentation>因忽又听得秦氏之丫鬟名唤瑞珠者，见秦氏死了，他也触柱而亡。此事可罕，合族人也都称叹。贾珍遂以孙女之礼殓殡。</documentation>
+          </element>
+          <element xsi:type="archimate:BusinessActor" name="宝珠" id="id-5fbfb1d8744847fb8bfea20b88194a08">
+            <documentation>小丫鬟名宝珠者，因见秦氏身无所出，乃甘心愿为义女，誓任摔丧驾灵之任。贾珍喜之不尽，即时传下，从此皆呼宝珠为“小姐”。</documentation>
+          </element>
+          <element xsi:type="archimate:BusinessActor" name="戴权" id="id-90e200609e254190bc6048e8540c753d">
+            <documentation>大明宫掌宫内相
+</documentation>
+          </element>
+        </folder>
+        <folder name="014" id="id-1a650347da7548208fa586b0f7fe3d97">
+          <element xsi:type="archimate:BusinessActor" name="来升媳妇" id="id-c548487038ff420b975eb49cb2b439d6"/>
+          <element xsi:type="archimate:BusinessActor" name="昭儿" id="id-e67c5d738e8446f0840dc3165d6a8091"/>
+          <element xsi:type="archimate:BusinessActor" name="色空" id="id-d946cd6ba43d41549c5cfa79a718a390">
+            <documentation>铁槛寺住持</documentation>
+          </element>
+          <element xsi:type="archimate:BusinessActor" name="牛继宗(一等伯)" id="id-5cc94439d65745dda7095d4702ba1341"/>
+          <element xsi:type="archimate:BusinessActor" name="柳芳" id="id-024092e3e856428e98e72cf8f66d1e39"/>
+          <element xsi:type="archimate:BusinessActor" name="理国公柳彪" id="id-663530f1bc624cdab296ad0b15ee81f5"/>
+          <element xsi:type="archimate:BusinessActor" name="齐国公陈翼" id="id-79365a9fef8940888eb6b9271297edea"/>
+          <element xsi:type="archimate:BusinessActor" name="陈瑞文" id="id-9fc61e9c68854f9e8658a052892a200e">
+            <documentation>世袭三品威镇将军</documentation>
+          </element>
+          <element xsi:type="archimate:BusinessActor" name="治国公马魁" id="id-37908ad4fbdd4f068dfaad91bfb58bab"/>
+          <element xsi:type="archimate:BusinessActor" name="马尚" id="id-6bb255afa1f34efb8e532f9b0ab73a3e">
+            <documentation>世袭三品威远将军</documentation>
+          </element>
+          <element xsi:type="archimate:BusinessActor" name="修国公侯晓明" id="id-f2fae5ebbc4f499fb1aa5fc6697c5988"/>
+          <element xsi:type="archimate:BusinessActor" name="侯孝康" id="id-c91f8ecaa2b9497f846b8a4f22744575"/>
+          <element xsi:type="archimate:BusinessActor" name="缮国公" id="id-a75078349e074bffba3a9b156cee8525"/>
+          <element xsi:type="archimate:BusinessActor" name="石光珠" id="id-c7b8f2f641e6482e8ab76122dc0b191d"/>
+          <element xsi:type="archimate:BusinessActor" name="南安郡王之孙" id="id-f2ee4d146be6486f993066d7c3b505d8"/>
+          <element xsi:type="archimate:BusinessActor" name="西安郡王之孙" id="id-ed4ea2f07c034b98a48046d06f47ab51"/>
+          <element xsi:type="archimate:BusinessActor" name="忠靖侯史鼎" id="id-57ac607bc64542199e049950ff252a30"/>
+          <element xsi:type="archimate:BusinessActor" name="平原侯" id="id-aadf097cf695421db6d2f9942c6f647f"/>
+          <element xsi:type="archimate:BusinessActor" name="蒋子宁" id="id-8a706c675c7a4eff90ab02142ef68eab"/>
+          <element xsi:type="archimate:BusinessActor" name="定城侯" id="id-81fc5e8030744df2b4974885feee10f9"/>
+          <element xsi:type="archimate:BusinessActor" name="谢鲸" id="id-f65e3d5d514c4e3883d32bb1ecb7f8ce"/>
+          <element xsi:type="archimate:BusinessActor" name="襄阳侯" id="id-51ff6cd640774211b9280927fab32051"/>
+          <element xsi:type="archimate:BusinessActor" name="戚建辉" id="id-47076e0c2d4949879792b1c2d0f0b26e">
+            <documentation>世袭二等男</documentation>
+          </element>
+          <element xsi:type="archimate:BusinessActor" name="景田侯" id="id-51aa399e8db94c5e82fd57a749dd48cf"/>
+          <element xsi:type="archimate:BusinessActor" name="司裘良" id="id-eeff5b9fb526480dbb70c3edf5b0282d"/>
+          <element xsi:type="archimate:BusinessActor" name="韩奇" id="id-240867b6057f497fa1b03f511d03b90c">
+            <documentation>锦乡伯公子</documentation>
+          </element>
+          <element xsi:type="archimate:BusinessActor" name="陈也俊" id="id-499980529647493e91ce0b1806e1237b"/>
+          <element xsi:type="archimate:BusinessActor" name="卫若兰" id="id-5daaa5144ea74b53a00d5ead7ad0d723"/>
+          <element xsi:type="archimate:BusinessActor" name="北静王水溶" id="id-b9b60d9d079d41c6bca760dc0bf67f97"/>
+        </folder>
+        <folder name="015" id="id-6c397b4803b240fc8cf6569ca9a77a1e">
+          <element xsi:type="archimate:BusinessActor" name="二丫头" id="id-69e272a6218e45c3a7b340e68e81b3a4"/>
+          <element xsi:type="archimate:BusinessActor" name="净虚" id="id-87d1e7f1196f4d8da2f8319ff9f1543c"/>
+          <element xsi:type="archimate:BusinessActor" name="智善" id="id-b24543eb4d8243a486fe2dc740bda0a0"/>
+          <element xsi:type="archimate:BusinessActor" name="智能" id="id-22964a05e07e4c6db74e9b6bf72e7326"/>
+          <element xsi:type="archimate:BusinessActor" name="张财主" id="id-8353312bcb0f4188bdf55de05deef8a1"/>
+          <element xsi:type="archimate:BusinessActor" name="金哥" id="id-cc7c43e8768a442f90d9d7dcf6dd675d"/>
+          <element xsi:type="archimate:BusinessActor" name="长安府府太爷的小舅子李衙内" id="id-cc338025ea094ddabe4f620dca3cf391"/>
+          <element xsi:type="archimate:BusinessActor" name="长安守备家公子" id="id-a5c0f272dfdf447aac9db7b95e03c862"/>
+          <element xsi:type="archimate:BusinessActor" name="长安节度云老爷云光" id="id-f86799d0b6f94bc79ecfa76f31322499"/>
+        </folder>
+        <folder name="016" id="id-a07686057c7e48c992e26ba610d47d9d">
+          <element xsi:type="archimate:BusinessActor" name="六宫都太监夏老爷夏守忠" id="id-42e1f06a2bc14e57bbe021789ef32989"/>
+          <element xsi:type="archimate:BusinessActor" name="赖大" id="id-6a0c4dceb8a2482f85690c8c212ba1fd">
+            <documentation>荣府大总管</documentation>
+          </element>
+          <element xsi:type="archimate:BusinessActor" name="赖嬷嬷" id="id-cd2345652b934fff8888f1b9fc89878a"/>
+          <element xsi:type="archimate:BusinessActor" name="赵嬷嬷" id="id-06f441394844487fbe080f1a1ea366df"/>
+          <element xsi:type="archimate:BusinessActor" name="卜固修" id="id-dac80d13cd7b43079c4252a2c5ce0eff"/>
+          <element xsi:type="archimate:BusinessActor" name="赵天梁" id="id-ec99696f75804c7ca9e831afa4a54c36"/>
+          <element xsi:type="archimate:BusinessActor" name="赵天栋" id="id-3764a0bdab374f58aa6ead481431b84b"/>
+        </folder>
+        <folder name="017 018" id="id-7e279b5d37604c8b914dba91595c2330">
+          <element xsi:type="archimate:BusinessActor" name="妙玉" id="id-551d68a9edf848de8b210a85a50969e8"/>
+          <element xsi:type="archimate:BusinessActor" name="林之孝家的" id="id-04945451a1e6454ca5e5abc95c94c280"/>
+        </folder>
+        <folder name="019" id="id-9a93efe17c0c4f398851392d5d9abdc7">
+          <element xsi:type="archimate:BusinessActor" name="卍儿" id="id-ec17551f85a9437f98e7ee2eb7f9af5c"/>
+          <element xsi:type="archimate:BusinessActor" name="花自芳" id="id-34cdc9a029884f348174bca8de802269"/>
+          <element xsi:type="archimate:BusinessActor" name="袭人之母" id="id-b58e0a2de2ed479b8028f46d3412dc55"/>
+        </folder>
       </folder>
     </folder>
     <folder name="诗词" id="id-b69448e4da8841f787efc99810c2652a">
@@ -592,7 +599,8 @@
         <element xsi:type="archimate:BusinessObject" name="杏帘在望" id="id-da80a99ebf744a109bca0dd0aff5d5aa">
           <documentation>杏帘招客引，在望有山庄。
 菱荇鹅儿水，桑榆燕子梁。
-一</documentation>
+一畦春韭绿，十里稻花香。
+盛世无饥馁，何须耕织忙。</documentation>
         </element>
       </folder>
     </folder>
@@ -626,6 +634,10 @@
       <element xsi:type="archimate:WorkPackage" name="第015回 王凤姐弄权铁槛寺 秦鲸卿得趣馒头庵" id="id-491d000f7acf4f208a32cd503a45f979"/>
       <element xsi:type="archimate:WorkPackage" name="第016回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路" id="id-2b743637d6b0425aaedb1df0157667c0"/>
       <element xsi:type="archimate:WorkPackage" name="第017 018回 大观园试才题对额 荣国府归省庆元宵" id="id-b4c8ed1471134ea8b23da13895b8cd6f"/>
+      <element xsi:type="archimate:WorkPackage" name="第019回 情切切良宵花解语 意绵绵静日玉生香" id="id-bc9a096d5fdf434e895f70430f99b0f4"/>
+      <element xsi:type="archimate:WorkPackage" name="第020回 王熙凤正言弹妒意 林黛玉俏语谑娇音" id="id-979c32b3bf3943e3a680b215f917022f"/>
+      <element xsi:type="archimate:WorkPackage" name="第021回 贤袭人娇嗔箴(zhen1)宝玉 俏平儿软语救贾琏" id="id-7757054ec4df4cf6b64340f30482a59a"/>
+      <element xsi:type="archimate:WorkPackage" name="第022回 听曲文宝玉悟禅机 制灯谜贾政悲谶(chen4)语" id="id-7a12d266bbb84ffdb1b6242740192cf6"/>
     </folder>
   </folder>
   <folder name="Other" id="id-c3fea30b0bb44678874fe498c54e7e97" type="other">
@@ -1043,6 +1055,11 @@
     <element xsi:type="archimate:AssociationRelationship" id="id-b3a1812abb4142e7b3254d01014d8341" source="id-da80a99ebf744a109bca0dd0aff5d5aa" target="id-d342e0d4965443da84879eaf7e08282d"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-0cb4ae7e98334a1caaadaed4697e9fcc" source="id-da80a99ebf744a109bca0dd0aff5d5aa" target="id-ced14fa0d6564bafa459f6dbbff4a95f"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-aa8008756e5e457297219abb23180583" source="id-da80a99ebf744a109bca0dd0aff5d5aa" target="id-d2a9f0fcd9a743baaa43357f5d200722"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-80fa0c9701204979ae6c9c156308d386" source="id-a3021b67505d45f4b06d2b5327024507" target="id-ec17551f85a9437f98e7ee2eb7f9af5c"/>
+    <element xsi:type="archimate:AssociationRelationship" name="兄妹" id="id-0699912979434053a60b65020fc32f24" source="id-34cdc9a029884f348174bca8de802269" target="id-d3b1839965684accb4ce8bf535529ff0"/>
+    <element xsi:type="archimate:AssociationRelationship" name="母子" id="id-4afc3f67a49f40e1b021439aab424af1" source="id-b58e0a2de2ed479b8028f46d3412dc55" target="id-34cdc9a029884f348174bca8de802269"/>
+    <element xsi:type="archimate:AssociationRelationship" name="母女" id="id-8edca5d1004742d59c13397b6df6c8f0" source="id-b58e0a2de2ed479b8028f46d3412dc55" target="id-d3b1839965684accb4ce8bf535529ff0"/>
+    <element xsi:type="archimate:AssociationRelationship" name="早年的丫鬟" id="id-9183012f921a427ab0986a1e50e221f9" source="id-d3b1839965684accb4ce8bf535529ff0" target="id-80f6cbdaeb204e77a0b51df2fb4ed490"/>
   </folder>
   <folder name="Views" id="id-7af1d8741a4d4db7a886e4062a7929e5" type="diagrams">
     <folder name="人物关系" id="id-f8cfd423e8fc4dc18e4babe69e3187c2">
@@ -2567,6 +2584,48 @@
         <child xsi:type="archimate:DiagramObject" id="id-ed230c8a3d7e4d738729d4ffd98c170d" archimateElement="id-04945451a1e6454ca5e5abc95c94c280">
           <bounds x="206" y="19" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-ff26353d0927453b8d242990b3999265" source="id-ed230c8a3d7e4d738729d4ffd98c170d" target="id-1463e33e138a4a088c1a79f7a643c21e" archimateRelationship="id-050d6e5f91f644c48db610b735ee9c77"/>
+        </child>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="人物关系019" id="id-4ef03e5cef50461cbbafc0587e37e11c">
+        <child xsi:type="archimate:DiagramObject" id="id-5ee3d7a6bacc476d984ae24b8f4d08ff" targetConnections="id-0bbe1a5b569a40c6b2668efd46e2b2aa" archimateElement="id-ec17551f85a9437f98e7ee2eb7f9af5c">
+          <bounds x="444" y="156" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-fddcedd7ab69401990a153cc46173bdb" archimateElement="id-a3021b67505d45f4b06d2b5327024507">
+          <bounds x="256" y="156" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-0bbe1a5b569a40c6b2668efd46e2b2aa" source="id-fddcedd7ab69401990a153cc46173bdb" target="id-5ee3d7a6bacc476d984ae24b8f4d08ff" archimateRelationship="id-80fa0c9701204979ae6c9c156308d386"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5b6c99b8a62946d7997441d507bc0731" source="id-fddcedd7ab69401990a153cc46173bdb" target="id-296964ed789c4b1d96ba149fd7d9f3e5" archimateRelationship="id-982d0a67f1054e40ba957f2c39b933f4"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-296964ed789c4b1d96ba149fd7d9f3e5" targetConnections="id-5b6c99b8a62946d7997441d507bc0731 id-343dcf2b0e6641b9a67336a533c48f88 id-9f4effead19d4d46bc6aa60b297bf57b id-f4a7901e60034e01a1cde6089f7acab0 id-3185e9d0aea0415e8e50b70ea8ef6547" archimateElement="id-ced14fa0d6564bafa459f6dbbff4a95f">
+          <bounds x="256" y="10" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-d3df433482ad41b3befc88414483946c" targetConnections="id-1e47c044aa99445da34e4dce005219f0 id-fc614e4fe9554357ae9cc27aee80b24a" archimateElement="id-d3b1839965684accb4ce8bf535529ff0">
+          <bounds x="72" y="109" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-343dcf2b0e6641b9a67336a533c48f88" source="id-d3df433482ad41b3befc88414483946c" target="id-296964ed789c4b1d96ba149fd7d9f3e5" archimateRelationship="id-bd735dbfa97946ef87e425a25e10a427"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9ffe2ac0d0a741ef8e06e1320b4d54dd" source="id-d3df433482ad41b3befc88414483946c" target="id-a57298a327114779b8d6791f4b5277e8" archimateRelationship="id-9183012f921a427ab0986a1e50e221f9"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a01bd5acc04e460dbf117a4d5381484a" targetConnections="id-2f244241f4f441da8f9e57ff2f1dff52" archimateElement="id-34cdc9a029884f348174bca8de802269">
+          <bounds x="-60" y="24" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1e47c044aa99445da34e4dce005219f0" source="id-a01bd5acc04e460dbf117a4d5381484a" target="id-d3df433482ad41b3befc88414483946c" archimateRelationship="id-0699912979434053a60b65020fc32f24"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-cce55098aa2a446a9327a4730cc8c3b7" archimateElement="id-b58e0a2de2ed479b8028f46d3412dc55">
+          <bounds x="72" y="-60" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2f244241f4f441da8f9e57ff2f1dff52" source="id-cce55098aa2a446a9327a4730cc8c3b7" target="id-a01bd5acc04e460dbf117a4d5381484a" archimateRelationship="id-4afc3f67a49f40e1b021439aab424af1"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-fc614e4fe9554357ae9cc27aee80b24a" source="id-cce55098aa2a446a9327a4730cc8c3b7" target="id-d3df433482ad41b3befc88414483946c" archimateRelationship="id-8edca5d1004742d59c13397b6df6c8f0"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-5af976e4c2e04c18aabebb0e135b4e77" archimateElement="id-176a4f6203ad48829982295520e70b10">
+          <bounds x="444" y="-63" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9f4effead19d4d46bc6aa60b297bf57b" source="id-5af976e4c2e04c18aabebb0e135b4e77" target="id-296964ed789c4b1d96ba149fd7d9f3e5" archimateRelationship="id-a64147e10567438b9f105af5e287b1aa"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a8f7a4fbaa5045d69c1620a8c66b2110" archimateElement="id-49419e3f7502459bade277d5fc6f8c26">
+          <bounds x="444" y="12" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f4a7901e60034e01a1cde6089f7acab0" source="id-a8f7a4fbaa5045d69c1620a8c66b2110" target="id-296964ed789c4b1d96ba149fd7d9f3e5" archimateRelationship="id-060ea94952d04c2ab03635c13a94c341"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a05f824f7047498c8cb8db8654373c15" archimateElement="id-737e3fdf3bda47fcb38a81ddb6d9d3d6">
+          <bounds x="444" y="78" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3185e9d0aea0415e8e50b70ea8ef6547" source="id-a05f824f7047498c8cb8db8654373c15" target="id-296964ed789c4b1d96ba149fd7d9f3e5" archimateRelationship="id-8f921c1ae6db4c72ad93bec8160e9f90"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a57298a327114779b8d6791f4b5277e8" targetConnections="id-9ffe2ac0d0a741ef8e06e1320b4d54dd" archimateElement="id-80f6cbdaeb204e77a0b51df2fb4ed490">
+          <bounds x="72" y="240" width="120" height="55"/>
         </child>
       </element>
     </folder>
