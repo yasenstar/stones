@@ -15,20 +15,11 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
+      <main >
 
         <div className={styles.center}>
           <div><h2>红楼梦 Dream of Red Mansions stone</h2></div>
-          <div><Image
-            className={styles.logo}
-            src="/images/cover.jpeg"
-            alt="HongLouMeng Cover"
-            width={500}
-            height={300}
-          /></div>
-        </div>
-
-        <div className={styles.grid}>
+          <div>
           <Link
             href="/modelHTML/index.html"
             className={styles.card}
@@ -36,13 +27,17 @@ export default function Home() {
             alt="Stones Archi Model HTML Report"
             rel="noopener noreferrer"
           >
-            <h2>
-              红楼梦HTML报告 <span>-&gt;</span>
-            </h2>
-            <p>
-              View model in HTML format
-            </p>
-          </Link>
+            <Image
+            className={styles.logo}
+            src="/images/cover.jpeg"
+            alt="HongLouMeng Cover"
+            width={500}
+            height={300}
+          />
+          </Link></div>
+        </div>
+
+        <div className={styles.grid}>
 
           <Link
             href="/model/stones.archimate"
